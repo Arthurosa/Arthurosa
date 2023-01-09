@@ -25,7 +25,7 @@
 
 <h3 alinhar="esquerda">Conecte comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/arthurosa152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthurosa152" altura="30" largura="40" /></a>
+<a href="https://twitter.com/arthurosa152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthurosa152" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arthur rosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur rosa" height="30" width="40" / ></a>
 <a href="https://instagram.com/arthuznn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthuznn" height="30" largura="40" /></a>
 </p>
