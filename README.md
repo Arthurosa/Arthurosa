@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arthurosa152" target="blank"><img src="https://img.shields.io/twitter/follow/arthurosa152?logo=twitter&style=for-the-badge" alt="arthurosa152" /></a> </p>
 
-- 📉 No momento de estudo sobre: **Cloud Computing**
+- 📉 No momento estudo sobre: **Cloud Computing**
 
 - 🌱 Atualmente estou aperfeiçoando em: **Linux e Amazon Web Services**
 
